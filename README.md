@@ -23,6 +23,10 @@ The application includes:
 - Android Studio with an emulator or a physical Android device  
 - For iOS: macOS with Xcode installed
 
+https://github.com/user-attachments/assets/8e808dc0-e274-4de0-a124-0dd8708b4aa3
+
+
+
 ### Steps
 
 ```bash
